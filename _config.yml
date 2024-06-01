@@ -1,0 +1,9 @@
+title: My Website
+description: A simple website using GitHub Pages
+baseurl: ""
+url: "https://yourusername.github.io"
+theme: minima
+
+# Exclude these files from the Jekyll build process
+exclude:
+  - README.md
